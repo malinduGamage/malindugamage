@@ -1,16 +1,39 @@
-## Hi there 👋
+# Malindu Gamage
 
-<!--
-**malinduGamage/malindugamage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science and Engineering undergraduate at University of Moratuwa Srilanka with a strong interest in web development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Software Engineering Intern at London Stock Exchange Group (LSEG), Sri Lanka (Dec 2024 – May 2025)
+- Experienced in full-stack web development
+- Currently learning client to server development, best practices, architechture, use cases
+- Interested in collaborating on open-source web technologies
+
+## Tech Stack
+
+**Languages**  
+JavaScript, TypeScript, Java, Python, C++
+
+**Frontend**  
+HTML, CSS, React, React Native, Tailwind CSS, Electron
+
+**Backend**  
+Node.js, Express.js, JWT
+
+**Databases**  
+PostgreSQL, MySQL, MongoDB
+
+**DevOps & Tools**  
+Docker, GitHub Actions
+
+## Selected Work
+
+- Migrated and enhanced an internal engineering tool at LSEG from Svelte to React, improved frontend architecture and protocol integrations
+- Orphanage Management System – Secure role-based full-stack web application (React, Node.js, PostgreSQL, AWS, Docker)
+- RPAL Compiler – Implemented lexical analysis, parsing, and AST construction using TDD (Python)
+
+## Current Focus
+
+- Building an online coding editor for a programming language
+- Writing clean, maintainable, production-ready web applications
+- Contributing to open-source projects in the web ecosystem
