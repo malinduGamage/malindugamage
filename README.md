@@ -1,6 +1,6 @@
-# Malindu Gamage
+# Hi
 
-Computer Science and Engineering undergraduate at University of Moratuwa Srilanka with a strong interest in web development.
+I'm a Computer Science and Engineering undergraduate at University of Moratuwa Srilanka with a strong interest in web development.
 
 ## About Me
 
