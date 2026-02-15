@@ -10,8 +10,8 @@ I'm a Computer Science and Engineering undergraduate at University of Moratuwa S
 - Interested in collaborating on open-source web technologies
 
 ## Fun Stuff
-[Sorting Visualizer](https://malindugamage.github.io/sorting-visualizer/)
-[mathematical pattern wallpaper generator](https://malindugamage.github.io/FRACTALIS/)
+- [Sorting Visualizer](https://malindugamage.github.io/sorting-visualizer/)
+- [mathematical pattern wallpaper generator](https://malindugamage.github.io/FRACTALIS/)
 
 ## Tech Stack
 
