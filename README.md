@@ -8,6 +8,7 @@ I'm a Computer Science and Engineering undergraduate at University of Moratuwa S
 - Experienced in full-stack web development
 - Currently learning client to server development, best practices, architechture, use cases
 - Interested in collaborating on open-source web technologies
+- [visit](https://malindugamage.github.io/)
 
 ## Fun Stuff
 - [Sorting Visualizer](https://malindugamage.github.io/sorting-visualizer/)
