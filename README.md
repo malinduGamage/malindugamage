@@ -39,6 +39,5 @@ Docker, GitHub Actions
 
 ## Current Focus
 
-- Building an online coding editor for a programming language
 - Writing clean, maintainable, production-ready web applications
 - Contributing to open-source projects in the web ecosystem
