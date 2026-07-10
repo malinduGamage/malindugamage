@@ -6,9 +6,8 @@ I'm a Computer Science and Engineering undergraduate at University of Moratuwa S
 
 - Software Engineering Intern at London Stock Exchange Group (LSEG), Sri Lanka (Dec 2024 – May 2025)
 - Experienced in full-stack web development
-- Currently learning client to server development, best practices, architechture, use cases
-- Interested in collaborating on open-source web technologies
-- [visit](https://malindugamage.github.io/)
+- Currently learning Agentic ai
+- Interested in collaborating on open-source web technologies -  [first attempt](https://github.com/jenkins-infra/contributor-spotlight/pull/489)
 
 ## Fun Stuff
 - [Sorting Visualizer](https://malindugamage.github.io/sorting-visualizer/)
